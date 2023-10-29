@@ -159,6 +159,8 @@ Then you have to send this application to your victim.
 Install the app on the victim’s device and give all the permissions after that the connection will show up in the web panel.
 
 
+![img](https://github.com/techteams0/Android-RAT/assets/64240810/4474677a-1f11-4ff6-a33d-380472a921de)
+
 
 
 
